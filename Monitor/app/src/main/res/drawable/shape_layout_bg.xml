@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners
+        android:bottomLeftRadius="@dimen/corner_radius"
+        android:bottomRightRadius="@dimen/corner_radius"
+        android:topLeftRadius="@dimen/corner_radius"
+        android:topRightRadius="@dimen/corner_radius" />  <!-- 设置圆角弧度 -->
+    <solid android:color="#77000000" />   <!-- 设置背景颜色 -->
+    <!--    <stroke-->
+    <!--        android:width="2dp"-->
+    <!--        android:color="#f00" /> &lt;!&ndash; 设置边框颜色以及宽度 &ndash;&gt;-->
+
+</shape>
